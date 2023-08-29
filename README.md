@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Docker, CI/CD & Networking Fundamentals**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shadab034](https://github.com/shadab034)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/shadab034)
 
 - 📫 How to reach me **shadabhussain034@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qvfiTvFpSa5H9YXr3fok16Eipk901YTo/view?usp=sharing](drive.google.com/file/d/1qvfiTvFpSa5H9YXr3fok16Eipk901YTo/view?usp=sharing)
+- 📄 Know about my experiences [My Resume Link](drive.google.com/file/d/1qvfiTvFpSa5H9YXr3fok16Eipk901YTo/view?usp=sharing)
 
 - ⚡ Fun fact **What did the computer programmer say to his professor when he was unable to submit his coding assignment? The student said, "My dog ate my assignment. However, it did take him a couple of bytes to finish it".**
 
