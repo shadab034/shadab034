@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shadab Hussain</h1>
-<div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQHKRgJm80UvDQ/profile-displaybackgroundimage-shrink_350_1400/0/1685651658357?e=1698883200&v=beta&t=biuXsfC5g-kPfRhiLmjJ-Fpm5VFsJIAbqqrBgVcZEFk" alt="Banner"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/shadab034/shadab034/master/banner.jpg" alt="Banner"> </div>
 <h3 align="center">An aspiring Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
