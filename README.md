@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadab034&label=Profile%20views&color=0e75b6&style=flat" alt="shadab034" /> </p>
 
-- 🔭 I’m currently working in [Mintways Technologies](https://www.linkedin.com/company/mintways-technlogies-private-limited/)
+- 🔭 I’m currently working in [Mintways Technologies](https://www.linkedin.com/company/mintways-technlogies-private-limited/) as a <br> <b>Software Engineer Trainee</b>
 
 - 🌱 I’m currently learning **ASP.NET CORE, ASP.NET CORE MVC and WEB API, Docker, CI/CD & Networking Fundamentals**
 
