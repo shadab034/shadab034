@@ -15,7 +15,9 @@
 
 - 📄 Know about my experiences [My Resume Link](Resume.pdf)
 
-- ⚡ Fun fact **What did the computer programmer say to his professor when he was unable to submit his coding assignment? The student said, "My dog ate my assignment. However, it did take him a couple of bytes to finish it".**
+<br>
+  
+⚡Fun fact **What did the computer programmer say to his professor when he was unable to submit his coding assignment? The student said, "My dog ate my assignment. However, it did take him a couple of bytes to finish it".**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
