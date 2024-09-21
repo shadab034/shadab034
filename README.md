@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working in [Mintways Technologies](https://www.linkedin.com/company/mintways-technlogies-private-limited/) as a <br> <b>Software Engineer Trainee</b>
 
+- 🌱 I'm currently having a project based learning of Distributed Systems 
+
 - 🌱 I’m currently learning **ASP.NET CORE, ASP.NET CORE MVC and WEB API, Docker, CI/CD & Networking Fundamentals**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/shadab034)
