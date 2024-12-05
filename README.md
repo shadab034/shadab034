@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shadabhussain034@gmail.com**
 
-- 📄 Know about my experiences [My Resume Link](Resume.pdf)
+- 📄 Know about my experiences [My Resume Link](ShadabResume.pdf)
 
 <br>
   
