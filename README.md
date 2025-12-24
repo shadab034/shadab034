@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadab034&label=Profile%20views&color=0e75b6&style=flat" alt="shadab034" /> </p>
 
-- 🔭 I’m currently working in [Mintways Technologies](https://www.linkedin.com/company/mintways-technlogies-private-limited/) as a <br> <b>Software Engineer Trainee</b>
+- 🔭 I’m currently working in [Amazon](https://www.linkedin.com/company/amazon/) as a <br> <b>System Development Engineer</b>
 
-- 🌱 I'm currently having a project based learning of Distributed Systems 
+- 🌱 I'm currently having a project based learning of Distributed Systems and Low Level Design 
 
-- 🌱 I’m currently learning **ASP.NET CORE, ASP.NET CORE MVC and WEB API, Docker, CI/CD & Networking Fundamentals**
+- 🌱 I’m currently learning **Low Level Design and AWS Cloud**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/shadab034)
 
